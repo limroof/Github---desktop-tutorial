@@ -1,0 +1,10 @@
+.lmj-plant-list-sort{
+    width: 100%;
+}
+.lmj-plant-list-sort-wrapper{
+    width: fit-content;
+    margin-left:auto;
+    display: flex;
+    column-gap: 15px;
+    margin-bottom: 1em;
+}
